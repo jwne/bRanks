@@ -1,0 +1,5 @@
+name: bRanks
+main: com.breakmc.branks.BRanks
+version: ${version} | ${timestamp} | ${computerName}
+authors: [rbrick, Aventium, Young_Explicit]
+description: A simple permission plugin for BreakMC Servers
